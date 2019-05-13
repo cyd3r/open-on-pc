@@ -1,0 +1,14 @@
+{
+  "name": "open-on-pc",
+  "repository": "https://github.com/cyd3r/open-on-pc",
+  "author": "Julian",
+  "license": "MIT",
+  "scripts": {
+    "start": "node src/api/index.js"
+  },
+  "dependencies": {
+    "express": "^4.16.4",
+    "open": "^6.3.0",
+    "qrcode-svg": "^1.0.0"
+  }
+}
