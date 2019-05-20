@@ -1,6 +1,6 @@
 # Open on PC
 
-A simple web server built on [Express](https://expressjs.com/) which allows you to open a link from your Phone on your PC.
+A simple web server built on [Express](https://expressjs.com/) which allows you to open a link from your phone on your PC.
 
 All you need to do is to run the server and open the web page on your phone. Then paste your link in the input field and the page will be opened on the PC.
 
