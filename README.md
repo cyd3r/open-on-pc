@@ -10,7 +10,7 @@ All you need to do is to run the server and open the web page on your phone. The
 
 ``` sh
 # install the required packages (do this only once)
-yarn init
+yarn
 # start the server
 yarn start
 ```
